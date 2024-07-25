@@ -16,16 +16,16 @@
 
 <p align="center">
   <em>
- Hello! I'm [Tu Nombre], a passionate Software Engineering student with a deep love for technology and continuous learning. I thrive on exploring new innovations and enhancing my skills in various tech domains. My journey in the world of software development is driven by curiosity and a relentless desire to create impactful solutions. When I'm not coding or studying, I enjoy diving into the latest tech trends and expanding my knowledge in cutting-edge technologies. Join me as I embark on this exciting adventure in the realm of software engineering!.
+ Hello! I'm Bryan, a passionate Software Engineering student with a deep love for technology and continuous learning. I thrive on exploring new innovations and enhancing my skills in various tech domains. My journey in the world of software development is driven by curiosity and a relentless desire to create impactful solutions. When I'm not coding or studying, I enjoy diving into the latest tech trends and expanding my knowledge in cutting-edge technologies. Join me as I embark on this exciting adventure in the realm of software engineering!.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+ 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
