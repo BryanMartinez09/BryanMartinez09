@@ -5,12 +5,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bryan Martinez </h1>
 <h3 align="center">Software Engineer |Data Analysis Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bryan-martinez-006785319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090443336792&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bmmartz_0908?utm_source=qr&igsh=OWluczF2cXUzNGZu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+
 </p>
 </p>
 
