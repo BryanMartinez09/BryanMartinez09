@@ -42,7 +42,7 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="15%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></code>
                                                                      
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
