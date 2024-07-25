@@ -42,7 +42,7 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="15%" src="https://www.flaticon.com/free-icon/c-sharp_6132221"></code>
+<code><img width="15%" src="https://img.icons8.com/?size=64&id=Fycm8TUhWmFU&format=png"></code>
                                                                      
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
