@@ -1,61 +1,126 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+·+TypeScript+·+NestJS+·+Node.js;APIs+REST+·+Docker+·+JavaScript;Building+Modern+and+Scalable+Web+Applications" />
 </p>
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bryan Martinez </h1>
-<h3 align="center">Software Engineer |Data Analysis Enthusiast</h3>
+
+<h1 align="center">
+Hi 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I'm Bryan Martinez
+</h1>
+
+<h3 align="center">
+Full Stack Developer | React · TypeScript · NestJS · Node.js | APIs REST | Docker | JavaScript
+</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/bryan-martinez-006785319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090443336792&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bmmartz_0908?utm_source=qr&igsh=OWluczF2cXUzNGZu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/bryan-martinez-006785319">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100090443336792">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/bmmartz_0908">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
 </p>
-</p>
 
+---
 
+# 👨‍💻 About Me
 
 <p align="center">
-  <em>
- Hello! I'm Bryan, a passionate Software Engineering student with a deep love for technology and continuous learning. I thrive on exploring new innovations and enhancing my skills in various tech domains. My journey in the world of software development is driven by curiosity and a relentless desire to create impactful solutions. When I'm not coding or studying, I enjoy diving into the latest tech trends and expanding my knowledge in cutting-edge technologies. Join me as I embark on this exciting adventure in the realm of software engineering!.
-  </em> 
-  <br>
- 
+<em>
+
+Soy estudiante del **último año de Ingeniería en Sistemas**, con enfoque en **desarrollo web moderno**.
+
+He desarrollado **proyectos académicos y personales** utilizando **Laravel, React y Tailwind CSS**, aplicando buenas prácticas de desarrollo y patrones de arquitectura como **MVC**.
+
+Me interesa construir **interfaces modernas, aplicaciones escalables y soluciones web bien estructuradas**.
+
+Disfruto combinar **lógica y diseño** para crear experiencias digitales eficientes y mantener un **proceso de aprendizaje constante en nuevas tecnologías**.
+
+</em>
 </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px /> 
+---
 
-✔ I'm currently learning PHP, Java, and NodeJS.<br>
-✔ I'm in my third year of Software Engineering.<br>
-✔ I love programming and have experience with C#.<br>
-✔ I handle databases and other interesting technologies.<br>
- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact: At the time of stress coding, I tend to be in a half-sleeping mode.<br><br>
+<picture> 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260px" />
 
- <div align="center"> 
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-<b>><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code></code><code><img width="15%" 
-   <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" 
-   <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- <code><img width="15%" src="https://www.php.net/images/logos/new-php-logo.svg"></code></b>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="8%" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"></code><b></b>
-                                                                     
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🚀 What I Do
 
- <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+✔ Desarrollo de aplicaciones **Full Stack**
+✔ Construcción de **APIs REST escalables**
+✔ Desarrollo de **interfaces modernas**
+✔ Integración de **bases de datos y backend**
+✔ Uso de **Docker para despliegue y entornos**
+✔ Aplicación de **buenas prácticas y arquitectura de software**
+✔ Siempre aprendiendo nuevas tecnologías 🚀
+
+</picture>
+
+<br><br>
+
+---
+
+# 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,nestjs,php,laravel,java,cs,docker,git,mysql,postgres,mongodb,aws,html,css,tailwind,vscode" />
+
 </p>
 
-</div>
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BryanMartinez09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMartinez09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanMartinez09&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanMartinez09&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 Cuando estoy programando bajo presión, a veces entro en **modo medio dormido pero sigo debuggeando todo 😆**
+
+---
